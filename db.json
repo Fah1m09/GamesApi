@@ -1,0 +1,19 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Mahmudur Rahman Fahim",
+            "dob": "1996-9-29"
+        },
+        {
+            "id": 2,
+            "name": "Fazle Rabbi",
+            "dob": "1997-5-23"
+        },
+        {
+            "id": 3,
+            "name": "Shazid Ruman",
+            "dob": "1996-10-25"
+        }
+    ]
+}
